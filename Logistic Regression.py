@@ -1,4 +1,10 @@
-# Logistic regression class
+## Logistic Regression from scratch
+## Kashaf Ali 2023
+
+import numpy as np
+import pandas as pd
+
+
 class Logistic_regression:
     # Class constructor
     def __init__(self):
